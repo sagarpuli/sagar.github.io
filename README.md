@@ -13,7 +13,7 @@
   <body>
     <!-- Navabar -->
     <nav class="navbar">
-      <span class="navbar-logo">Kishore</span>
+      <span class="navbar-logo">Resume</span>
       <ul class="navbar__list">
         <li class="navbar__list-item">Home</li>
         <li class="navbar__list-item">About</li>
@@ -24,8 +24,8 @@
     <!-- Header -->
     <header class="header">
       <div class="header__data">
-        <h1 style="margin: 20px auto;">Kishore Babu</h1>
-        <p>Front End Web Developer</p>
+        <h1 style="margin: 20px auto;">Sagar Kumar Pandey</h1>
+        <p>BE CSE</p>
       </div style="margin: 20px auto;">
       <a href="./images/brouchermin.pdf" download="" class="btn"
         >Download Resume</a
@@ -38,8 +38,7 @@
       <div class="about__description">
         <h2>About Me</h2>
         <p>
-          Hello. My name is Kishore Babu, I am a Front End Web Developer
-          specialised in ReactJs
+          Hello. My name is Sagar Kumar Pandey, I am Anna University Student
         </p>
       </div>
       <div class="about__image-container">
